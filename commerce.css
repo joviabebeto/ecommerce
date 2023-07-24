@@ -99,6 +99,7 @@ nav {
 }
 
 .logo h1{
+  padding: 3rem;
     background-image: linear-gradient(to right,rgb(11, 133, 11),rgb(206, 24, 24),rgb(3, 3, 243));
     
     color: transparent;
@@ -176,9 +177,10 @@ h1{
 
 
 .products{
-    background-color: #afbeb5;
+  
+    background-color: #0f8d42;
     padding: 3rem;
-     font-size: 25px;
+     font-size: 20px;
      color: #0e0606;
 }
 .email{
